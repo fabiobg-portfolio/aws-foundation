@@ -19,7 +19,9 @@
   - Save snapshots in a different place (S3) for backup - define the frequency
 - S3 - Simple Storage Service
   - Define the usage frequency - Frequent: Standard or Stardard IA; Infrequent: One Zone or Glacier.
- 
+
+<img width="1862" height="922" alt="image" src="https://github.com/user-attachments/assets/92e94688-7f17-4f31-ab01-1f5af52ddc32" />
+
  ## Design
 
  - Small Architecture sample: [Controle de Cadastro - Design.drawio](/Controle%20de%20Cadastro%20-%20Design.drawio)
